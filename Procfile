@@ -1,1 +1,1 @@
-web gunicorn dbModel:app
+web gunicorn app_run:app
